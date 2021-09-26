@@ -50,4 +50,10 @@ Languages
 * Japanese (Advanced)
 * Spanish (Intermediate)
   
+Hobbies
+======
 
+* Basketball, Volleyball, Karate
+* Video games
+* Mangas, series
+* Chess
