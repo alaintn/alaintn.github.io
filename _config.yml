@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Alain TRAN"
   avatar           : "photo_de_profil.png"
-  bio              : "Student in Data Sciences Dual Degree Master. Competences lies in mathematics, physics, machine learning, programmation, economy and languages."
+  bio              : "Student in Data Sciences Dual Degree Master."
   location         : "Lille, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/alain.tran.31"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/alaintn"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/alain-tran-40b14519a/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Alain_Tn"
   vine             :
   weibo            :
   xing             :
